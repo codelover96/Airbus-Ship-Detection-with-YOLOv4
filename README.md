@@ -24,7 +24,7 @@ Altough YOLOv4 does not perform well when there are objects really close to each
 * *to be continued..*
 
 #### Results
-![Sample ship image](https://github.com/codelover96/Airbus-Ship-Detection-with-YOLOv4/blob/main/0a89c4e4b.jpg)
+![Sample ship image](https://github.com/codelover96/Airbus-Ship-Detection-with-YOLOv4/blob/main/0a89c4e4b_558x558.jpg)
 ![Sample of Yolo v4 Results](https://github.com/codelover96/Airbus-Ship-Detection-with-YOLOv4/blob/main/0a89c4e4b_results.png)
 #### Mean Average Precision
 
