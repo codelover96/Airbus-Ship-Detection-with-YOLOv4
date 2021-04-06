@@ -14,6 +14,6 @@ Altough YOLOv4 does not perform well when there are objects really close to each
 * Contains a test and train subset
 
 #### Useful Links
-[Airbus Ship Detection - Traditional v.s. Convolutional Neural Network Approach](http://cs229.stanford.edu/proj2018/report/58.pdf) by Ying Chen, Junwen Zheng, Zhengqing Zhou 
-
+- [Airbus Ship Detection - Traditional v.s. Convolutional Neural Network Approach](http://cs229.stanford.edu/proj2018/report/58.pdf) by Ying Chen, Junwen Zheng, Zhengqing Zhou 
+- [Lessons Learned from Kaggle’s Airbus Challenge](https://towardsdatascience.com/lessons-learned-from-kaggles-airbus-challenge-252e25c5efac)
 ~codelover96
