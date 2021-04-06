@@ -25,6 +25,23 @@ Altough YOLOv4 does not perform well when there are objects really close to each
 
 #### Results
 ![Sample of Yolo v4 Results](https://github.com/codelover96/Airbus-Ship-Detection-with-YOLOv4/blob/main/0a89c4e4b_results.png)
+#### Mean Average Precision
+
+```calculation mAP (mean average precision)
+ Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+10640
+ detections_count = 57677, unique_truth_count = 18295  
+class_id = 0, name = ship, ap = 79.47%   	 (TP = 14342, FP = 4340) 
+
+ for conf_thresh = 0.25, precision = 0.77, recall = 0.78, F1-score = 0.78 
+ for conf_thresh = 0.25, TP = 14342, FP = 4340, FN = 3953, average IoU = 61.49 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.794678, or 79.47 % 
+Total Detection Time: 225 Seconds
+```
 
 #### YOLOv4 Tutorial
 ##### Youtube
@@ -39,5 +56,6 @@ Altough YOLOv4 does not perform well when there are objects really close to each
 - [Lessons Learned from Kaggle’s Airbus Challenge](https://towardsdatascience.com/lessons-learned-from-kaggles-airbus-challenge-252e25c5efac)
 - [Run Length Decoding](https://www.kaggle.com/chisanchensc/run-length-decoding-quick-start)
 
-
+#### Notice
+This repo is not complete. There are many additinos to be made. Like adding source files and displaying final results.
 ~codelover96
