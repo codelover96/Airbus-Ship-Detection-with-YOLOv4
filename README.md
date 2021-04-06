@@ -16,6 +16,14 @@ Altough YOLOv4 does not perform well when there are objects really close to each
 * csv file names ``train_ship_segmentations_v2.csv`` and ``train_ship_segmentations_v2_only_ship_images.csv``
 * first contains all ship images including those without ships
 
+#### YOLOv4 Tutorial
+##### Youtube
+* [YOLOv4 in the CLOUD: Install and Run Object Detector FREE GPU](https://www.youtube.com/watch?v=mKAEGSxwOAY)
+* [YOLOv4 in the CLOUD: Build and Train Custom Object Detector FREE GPU](https://www.youtube.com/watch?v=mmj3nxGT2YQ)
+* [How to Build a Custom YOLOv4 Object Detector using TensorFlow - License Plate Detector](https://www.youtube.com/watch?v=nOIVxi5yurE)
+##### Github
+* [The AI Guy](https://github.com/theAIGuysCode) This guy made some pretty nice tutorials for Yolo v3 and v4.
+
 #### Useful Links
 - [Airbus Ship Detection - Traditional v.s. Convolutional Neural Network Approach](http://cs229.stanford.edu/proj2018/report/58.pdf) by Ying Chen, Junwen Zheng, Zhengqing Zhou 
 - [Lessons Learned from Kaggle’s Airbus Challenge](https://towardsdatascience.com/lessons-learned-from-kaggles-airbus-challenge-252e25c5efac)
