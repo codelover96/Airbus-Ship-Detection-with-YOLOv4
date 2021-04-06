@@ -12,8 +12,14 @@ Altough YOLOv4 does not perform well when there are objects really close to each
 * Dataset consists of more than 100k images of 768x768 pixels.
 * Has a size of 28.9 Gb compressed and close to 31 Gb uncompressed
 * Contains a test and train subset
+* Includes 2 csv files one containing the image name and the encoded pixels in Run Length Encoding
+* csv file names ``train_ship_segmentations_v2.csv`` and ``train_ship_segmentations_v2_only_ship_images.csv``
+* first contains all ship images including those without ships
 
 #### Useful Links
 - [Airbus Ship Detection - Traditional v.s. Convolutional Neural Network Approach](http://cs229.stanford.edu/proj2018/report/58.pdf) by Ying Chen, Junwen Zheng, Zhengqing Zhou 
 - [Lessons Learned from Kaggle’s Airbus Challenge](https://towardsdatascience.com/lessons-learned-from-kaggles-airbus-challenge-252e25c5efac)
+- [Run Length Decoding](https://www.kaggle.com/chisanchensc/run-length-decoding-quick-start)
+
+
 ~codelover96
