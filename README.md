@@ -23,6 +23,9 @@ Altough YOLOv4 does not perform well when there are objects really close to each
 * used this tool [Convert-YOLO-to-PascalVOC](https://github.com/carolinepacheco/convert-yolo-to-pascalvoc)
 * *to be continued..*
 
+#### Results
+![Sample of Yolo v4 Results](https://github.com/codelover96/Airbus-Ship-Detection-with-YOLOv4/blob/main/0a89c4e4b_results.png)
+
 #### YOLOv4 Tutorial
 ##### Youtube
 * [YOLOv4 in the CLOUD: Install and Run Object Detector FREE GPU](https://www.youtube.com/watch?v=mKAEGSxwOAY)
