@@ -1,5 +1,6 @@
 # Airbus-Ship-Detection-with-YOLOv4
-Airbus Ship Detection challenge with YOLOv4 object detector
+Airbus Ship Detection challenge with YOLOv4 object detector.
+
 Back in 2019 Airbus published a challenge for ship detectio on Kaggle. Airbus provided a large dataset of satellite ship images from SPOT satellite.
 There are many attempts on solving this challenge, published on Github. In this attempt I'm using YOLOv4 object detector. Other have used Mask R-CNN, Single Shot Detector etc. This challenge is very popular across the Deep Learning community and AI researchers. Sometimes this dataset is used as a performance metric and evaluation of new Deep Learning models.
 
