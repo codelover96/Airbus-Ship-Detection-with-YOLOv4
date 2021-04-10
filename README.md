@@ -59,6 +59,6 @@ Total Detection Time: 225 Seconds
 - [Run Length Decoding](https://www.kaggle.com/chisanchensc/run-length-decoding-quick-start)
 
 #### Notice
-This repo is not complete. There are many additinos to be made. Like adding source files and displaying final results.
+This repo is not complete. There are many additions to be made. Like adding source files and displaying final results.
 
 ~codelover96
