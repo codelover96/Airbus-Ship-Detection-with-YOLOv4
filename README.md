@@ -61,4 +61,12 @@ Total Detection Time: 225 Seconds
 #### Notice
 This repo is not complete. There are many additions to be made. Like adding source files and displaying final results.
 
+#### Weights
+If you need my weight files please feel free to ask them. (1.8 gb)
+
+#### Running
+* Download and open the .ipynb to google colab
+* upload obj.data obj.names and yolov4-obj.cfg
+* begin training
+
 ~codelover96
